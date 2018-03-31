@@ -1,2 +1,3 @@
 # Simple-Breakout-game
-A simple breakout game, practice JavaScript. Follow a Online Tutorial
+A simple breakout game. 
+Practice JavaScript by following an online video tutorial.
